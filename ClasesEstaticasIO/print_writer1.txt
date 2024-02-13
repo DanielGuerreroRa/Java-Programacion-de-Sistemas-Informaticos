@@ -1,0 +1,2 @@
+Escrito desde un PrintWriter
+El nombre del producto              Te chai tiene un precio 1,33 y si hay 50 unidades
